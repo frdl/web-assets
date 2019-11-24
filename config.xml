@@ -7,9 +7,9 @@
         viewmodes   = "floating">
  
 
- <name short="frdl/web-assets">Frdlweb Asstes Server</name>
+ <name short="frdl/web-assets">Frdlweb Assets Server</name>
 
- <description>This is an `Asstes Server` for Frdlweb.</description>
+ <description>This is an `Assets Server` for Frdlweb.</description>
  
 
 	
